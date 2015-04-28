@@ -12,7 +12,7 @@ Long lived Access Token:
 3. Make sure you add the manage_pages permission.
 
 4. Convert this short-lived access token into a long-lived one by making this Graph API call:
-https://graph.facebook.com/oauth/access_token?client_id={your FB App ID}&client_secret={your FB App secret}&grant_type=fb_exchange_token&fb_exchange_token={your short-lived access token}
+ht&#8203;tps://graph.facebook.com/oauth/access_token?client_id={your FB App ID}&client_secret={your FB App secret}&grant_type=fb_exchange_token&fb_exchange_token={your short-lived access token}
 
 5. Grab the new long-lived access token returned back.
 
