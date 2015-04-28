@@ -36,3 +36,21 @@
  	text-decoration: none;
  	color: #3b5998;
 }
+
+.description{
+	width:100%;
+	margin: 1px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.date{
+	color: #999999;
+}
+
+.pic{
+	width: 50% ;
+	margin: 0 auto;
+}
