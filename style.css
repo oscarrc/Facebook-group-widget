@@ -1,0 +1,38 @@
+.wrapperfb {
+	width:100%;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	float:left;
+}
+ 
+.topfb {
+	margin:5px;
+	border-bottom:2px solid #e1e1e1;
+ 	float: left;
+ 	width:90%;
+}
+ 
+ .singlefb {
+ 	margin:3px;
+	width:90%;
+ 	border-bottom:1px dashed #e1e1e1;
+ 	float:left;
+}
+ 
+.imgfb {
+ 	float:left;
+ 	width:60px;
+ 	text-align:center;
+ 	margin:5px 5px 5px 0px;
+ 	border-right:1px dashed #e1e1e1;
+}
+ 
+.textfb {
+	width:75%;
+	float:left;
+	font-size:12px;
+}
+ 
+.afb {
+ 	text-decoration: none;
+ 	color: #3b5998;
+}
